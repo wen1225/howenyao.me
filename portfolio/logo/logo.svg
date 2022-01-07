@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="18" viewBox="0 0 17 18">
+  <g id="Group_1" data-name="Group 1" transform="translate(-34 -14)" opacity="0.998">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(34 14)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="1">
+      <rect width="17" height="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="17" fill="none"/>
+    </g>
+    <text id="何" transform="translate(37 27)" fill="#707070" font-size="11" font-family="PingFangSC-Regular, PingFang SC"><tspan x="0" y="0">何</tspan></text>
+  </g>
+</svg>

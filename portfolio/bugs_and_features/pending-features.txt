@@ -1,0 +1,2 @@
+1. include text animation
+2. More color and gradient

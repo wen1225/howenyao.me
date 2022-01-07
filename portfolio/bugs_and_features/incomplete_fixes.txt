@@ -1,0 +1,2 @@
+1. Doesn't scale well in smaller displays
+2. Not 100% responsive
