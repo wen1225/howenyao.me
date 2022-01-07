@@ -3,6 +3,11 @@
     --link-color: #676767;
 }
 
+@font-face {
+    font-family: var(--ff-primary);
+    src: url(../fonts/urbanist_regular.ttf);
+}
+
 html {
     font-size: 62.5%;
 }
