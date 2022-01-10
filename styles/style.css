@@ -80,3 +80,86 @@ body {
     border-width: 1px;
     padding: 0.2em 1.5em;
 }
+
+/* If screen width is at least 700px, run these css */
+@media (min-width: 600px) {
+    .main-container {
+        margin: 1.5em 3em 0.75em 3em;
+    }
+
+    .name {
+        padding: 0.6em 0em;
+        font-size: 8rem;
+    }
+
+    .description {
+        padding: 0% 25% 10% 0;
+        font-size: 3.8rem;
+    }
+
+    .links {
+        margin: 0px 0px 1.5em 0px;        
+        display:flex;
+        justify-content: left;
+    }
+}
+
+/* If screen width is at least 800px, run these css */
+@media (min-width: 800px) {
+    .name {
+        font-size: 10rem;
+    }
+
+    .description {
+        padding: 0% 15% 10% 0%;
+        font-size: 4rem;
+    }
+
+    .navigation__links a {
+        font-size: 1.7rem;
+        padding-left: 3.2em;
+    }
+
+    .logo img {
+        width: 1.5em;
+    }
+}
+
+/* If screen width is at least 1024px, run these css */
+@media (min-width: 1024px) {
+    .name {
+        font-size: 14rem;
+    }
+
+    .description {
+        padding: 0% 15% 10% 0%;
+        font-size: 5.5rem;
+    }
+
+    .navigation__links a {
+        font-size: 2rem;
+        padding-left: 4.5em;
+    }
+
+    .logo img {
+        width: 2.5em;
+    }
+
+    .navigation__links li {
+        display: flex;
+        align-items: center
+    }
+
+    .description {
+        padding-bottom: 7%;
+    }
+
+    .links {
+        margin: 0px 0px 1.5em 0px;        
+        display:flex;
+        justify-content: left;
+        align-items: center;
+        font-size: 4rem;
+        gap: 5%;
+    }
+}

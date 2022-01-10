@@ -1,2 +1,10 @@
-1. include text animation
+1. include text animation 
+- grayu/offwhite mud and then my name would surface from the bottom
 2. More color and gradient
+3. change user cursor when visiting in desktop mode
+4. Use shadow to create 3d effect on the texts
+- the shadow is relative to the current time
+- daytime: use day light, brighter (off white, blue tint)
+- afternoon: slightly warm, brightest (white, yellow tint)
+- evening: warmer and darker, less bright (orange, purple tint)
+- night: cool and dark mode, least bright, can see stars (moon light, navy or dark green)
